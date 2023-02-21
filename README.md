@@ -1,6 +1,6 @@
 # Cálculo Salário Mensal por Hora Trabalhada
 
-> Status do Projeto: Finalizado com possibilidade de atualização
+> <b>Status do Projeto:</b> Finalizado com possibilidade de atualização
 
 Este Projeto foi criado utilizano a linguagem Python, tendo o intuito de utilizando a orientação a objeto para melhor compreensão dos seus métodos e com a possibilidade de evolução deste código.
 
