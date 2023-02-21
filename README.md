@@ -1,4 +1,4 @@
-# Cálculo Salario Mensal por Hora Trabalhada
+# Cálculo Salário Mensal por Hora Trabalhada
 
 > Status do Projeto: Finalizado com possibilidade de atualização
 
@@ -32,6 +32,8 @@ from os import system
 def limpar_tela():
     return system('cls')
 ```
+
+### Layout do Programa para o Usuário
 
 A imagem a seguir apresenta a página inicial do projeto, a qual são dadas as informações pelo usuário, referente ao mês e ano que deseja saber quanto será o seu salário, bem como também é necessário indicar qual é o estado ao qual este funcionário reside para também ser validado se este estado possui algum feriado no mês de referência.
 
