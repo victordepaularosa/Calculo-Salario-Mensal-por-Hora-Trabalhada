@@ -43,3 +43,7 @@ A imagem abaixo apresenta o retorno das informações prestadas pelo usuário, a
 
 ![Página Final](https://user-images.githubusercontent.com/115742655/220453099-d1151dad-66df-4c0d-8910-a0be1c1b4d4c.png)
 
+### Conclusão
+
+O projeto realiza o cálculo da quantidade de horas trabalhadas no mês, bem como realiza o cálculo do salário do usuário de acordo com o valor da hora trabalhada. Tendo a possibilidade de crescimento por ser um programa baseado em Python Orientado a Objeto, dependendo das demandas futuras que possam ser geradas.
+
