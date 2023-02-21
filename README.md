@@ -33,5 +33,11 @@ def limpar_tela():
     return system('cls')
 ```
 
+A imagem a seguir apresenta a página inicial do projeto, a qual são dadas as informações pelo usuário, referente ao mês e ano que deseja saber quanto será o seu salário, bem como também é necessário indicar qual é o estado ao qual este funcionário reside para também ser validado se este estado possui algum feriado no mês de referência.
 
+![Página Inicial](https://user-images.githubusercontent.com/115742655/220452942-f7ff9b3c-d656-4d30-98b0-acb176384d50.png)
+
+A imagem abaixo apresenta o retorno das informações prestadas pelo usuário, assim dando como retorno quantos dias serão trabalhados no mês, quantidade de horas, além da informação principal de qual será o seu salário.
+
+![Página Final](https://user-images.githubusercontent.com/115742655/220453099-d1151dad-66df-4c0d-8910-a0be1c1b4d4c.png)
 
