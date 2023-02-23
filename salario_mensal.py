@@ -1,4 +1,4 @@
-class Salario_mensal:
+class Salario_Mensal:
 
     def __init__(self, hora_trabalho, qtd_dias_uteis) -> None:
         self.hora_trabalho = float(hora_trabalho)
