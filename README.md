@@ -21,7 +21,7 @@ pip install workadays
 Sendo criadas 03 (três) classes para o desenvolvimento do presente projeto, sendo estas:
  
 * Menu
-* Salario_mensal
+* Salario_Mensal
 * Calendario_Br
 
 Além disso, foi utilizada a biblioteca os para criação da função de limpeza de tela, conforme apresentado a seguir:
