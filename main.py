@@ -21,7 +21,7 @@ calendario = Calendario_Br(mes, ano, estado)
 limpar_tela()
 
 # Cálculo das horas trabalhadas pelo funcionário no mês
-funcionario = Salario_mensal(hora_trabalho, len(calendario))
+funcionario = Salario_Mensal(hora_trabalho, len(calendario))
 
 # Imprimir as Informações úteis para o usuário
 menu.menu_inicial()
